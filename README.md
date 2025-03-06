@@ -1,2 +1,2 @@
 # some-ex
-four crud exemples.
+four crud examples.
