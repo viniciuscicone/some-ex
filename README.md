@@ -1,2 +1,2 @@
-# some-ex
+# some-exe
 four crud examples.
